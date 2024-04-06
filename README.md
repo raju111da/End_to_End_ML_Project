@@ -10,6 +10,10 @@ python template_FolderStructure.py
 
 pip install -r requirements.txt
 
+python app.py
+
+
+
 
 ## Workflows
 
